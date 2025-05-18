@@ -10,9 +10,9 @@ Repursive transforms your raw notes, articles, and research into instantly usabl
 ## Why Repursive?
 1. **Privacy-first** – All language-model processing can run on your own hardware, so your data never leaves your control.
 2. **Frictionless** – Paste text, pick a template, get structured output ready to share.
-3. **Open Source** – Every service is public on GitHub; contributions are welcome!
+3. **Integrated** – Unified stack across web, mobile, and backend services.
 
-## Open-source repos
+## Our repositories
 | Component | Tech | Repository |
 |-----------|------|------------|
 | Gateway API | FastAPI | [repursive-gateway](https://github.com/Repursive/repursive-gateway) |
@@ -24,4 +24,4 @@ Repursive transforms your raw notes, articles, and research into instantly usabl
 ---
 Follow the repos above for progress updates and release notifications.
 
-*Made with ❤️ by the Repursive community* 
+*Made with ❤️ by the Repursive team* 
